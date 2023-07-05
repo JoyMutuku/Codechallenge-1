@@ -1,4 +1,4 @@
-# Codechallenge-1
+# codeChallenge-1
 #Description
 This challenge is 3 in one. I used Visual Studio Code to tackle them
 
